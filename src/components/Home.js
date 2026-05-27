@@ -62,7 +62,7 @@ const Home = () => {
             <p className='bee'>I began my programming journey as a hobby, and now it's shaping my future.</p>
             <p className='be'>Proficient in foundational languages like <span className='ani2'>Python, C++, and Java.</span></p>
             <p className='be'> I'm keen on exploring <span className='ani2'>Website technologies and developing innovative products.</span></p>
-            <p className='be'>I am a student of <span className='ani2'>B.Tech Computer Science</span> from <span className='ani2'>Bennett University</span> and currently in my <span className='ani2'>3rd year.</span></p>
+            <p className='be'>I am a student of <span className='ani2'>B.Tech Computer Science</span> from <span className='ani2'>Bennett University</span></p>
             </div>
             <div className="image-container">
                 <img src={girlImage} alt="Student" className="student-image" />
